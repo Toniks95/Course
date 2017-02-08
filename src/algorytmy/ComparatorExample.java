@@ -36,6 +36,7 @@ return d.age - d1.age;
 }
 
 public class ComparatorExample{
+    
 public static void main(String args[]){
 // Takes a list o Dog objects
 List<Dog> list = new ArrayList<Dog>();
